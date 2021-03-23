@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Win\\source\\repos\\Portfolio3\\Portfolio3\\Portfolio3.csproj": {}
+    "C:\\Users\\Win\\source\\repos\\Portfolio2\\Portfolio3\\Portfolio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Win\\source\\repos\\Portfolio3\\Portfolio3\\Portfolio3.csproj": {
+    "C:\\Users\\Win\\source\\repos\\Portfolio2\\Portfolio3\\Portfolio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win\\source\\repos\\Portfolio3\\Portfolio3\\Portfolio3.csproj",
+        "projectUniqueName": "C:\\Users\\Win\\source\\repos\\Portfolio2\\Portfolio3\\Portfolio3.csproj",
         "projectName": "Portfolio3",
-        "projectPath": "C:\\Users\\Win\\source\\repos\\Portfolio3\\Portfolio3\\Portfolio3.csproj",
+        "projectPath": "C:\\Users\\Win\\source\\repos\\Portfolio2\\Portfolio3\\Portfolio3.csproj",
         "packagesPath": "C:\\Users\\Win\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win\\source\\repos\\Portfolio3\\Portfolio3\\obj\\",
+        "outputPath": "C:\\Users\\Win\\source\\repos\\Portfolio2\\Portfolio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Win\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
