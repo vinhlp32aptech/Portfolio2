@@ -4,18 +4,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Portfolio4.Areas.Admin.Controllers
+namespace Portfolio4.Controllers
 {
-    [Area("admin")]
-    [Route("admin")]
-    
+    [Route("home")]
+    [Route("")]
+    [Route("~/")]
     public class HomeController : Controller
     {
         [Route("index")]
-        [Route("")]
         public IActionResult Index()
         {
             return View();
+        }
+
+        [Route("privacy")]
+        public IActionResult Privacy()
+        {
+            return View("Privacy");
         }
     }
 }

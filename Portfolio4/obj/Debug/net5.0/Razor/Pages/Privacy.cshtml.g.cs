@@ -20,6 +20,7 @@ using Portfolio4;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a0906750319c55d6ce48b545e707c28c2eb4094c", @"/Pages/Privacy.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a9af4978b9c2bfca24ef48e96efe5f8573634464", @"/_ViewImports.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2b3065d625cd0e89f6157c64c359175dfbf6038c", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Privacy : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {

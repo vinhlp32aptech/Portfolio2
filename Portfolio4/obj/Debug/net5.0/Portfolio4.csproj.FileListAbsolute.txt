@@ -115,3 +115,14 @@ C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Portfolio4.dll
 C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\ref\Portfolio4.dll
 C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Portfolio4.pdb
 C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Portfolio4.genruntimeconfig.cache
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LeftMenu.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Navbar.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Views\Shared\Navbar.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Win\source\repos\Portfolio2\Portfolio4\obj\Debug\net5.0\Razor\_ViewImports.cshtml.g.cs

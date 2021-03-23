@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Portfolio4.Areas.Admin.Controllers
+namespace Portfolio4.Controllers
 {
     public class AboutController : Controller
     {
